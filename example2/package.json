@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "request": "^2.74.0"
+  },
+  "scripts": {
+    "test": "node index.js"
+  }
+}
